@@ -1,4 +1,4 @@
 let consFoo = (a) => {
-  console.log(a)
-}
-consFoo(5)
+  console.log(a);
+};
+consFoo(5);
